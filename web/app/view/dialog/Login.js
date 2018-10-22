@@ -43,8 +43,8 @@ Ext.define('Traccar.view.dialog.Login', {
             xtype: 'image',
             src: 'orion_constrained-transparent.png',
             alt: Strings.loginLogo,
-            width: 240,
-            height: 64,
+            width: 124,
+            height: 80,
             style: {
                 display: 'block',
                 margin: '10px auto 25px'
